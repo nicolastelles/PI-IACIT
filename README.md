@@ -8,7 +8,8 @@ Dev Team:
 - João Victor de Paula
 - Maycon Rafael
 
+Master:
+- Nícolas Telles
 
-
-Master: Nícolas Telles
-PO: Danilo Pires
+PO: 
+ - Danilo Pires
