@@ -10,7 +10,7 @@ Problema (Desafio fornecido pelo cliente): Desenvolver um sistema de gerenciamen
 
 
 
-Dev Team:
+# Dev Team:
 - Lucas Vinícius
 - Gabriel Fabian 
 - João Victor de Paula
