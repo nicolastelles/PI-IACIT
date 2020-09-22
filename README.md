@@ -1,5 +1,6 @@
-# PI-IACIT
-Projeto Integrador da empresa IACIT 
+# PI-IACIT-Fatec São José dos Campos
+
+Projeto Integrador da empresa IACIT em parceira com a Fatec SJC, onde nosso time e todos alunos vão conseguir trabalhar com uma empresa real, com problemas reais, buscando soluções práticas e implementações utilizando o SCRUM. 
 
 # Disciplinas Integradas
 - Engenharia de Softaware ( Profª. Juliana Forin Pasquini Martiniz) 
