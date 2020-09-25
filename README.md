@@ -28,6 +28,7 @@ Product Owner:
 ![login_prototype](login_prototype.png)
 ![create_user_prototype](create_user_prototype.png)
 
+Obs: Os protótipos foram feitos no SceneBuilder 8.5.0, um editor para desenvolver as telas do programa. Escolhemos fazer pelo SceneBuilder para evitar problemas com o desenvolvimento final das telas.
 
 # Acesse o Product Backlog
 https://github.com/nicolastelles/PI-IACIT/projects/2
