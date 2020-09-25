@@ -24,10 +24,10 @@ Product Owner:
 
 - DANILO DE LIMA PIRES
 
-# Professores Orientadores
-- CLAUDIO ETELVINO DE LIMA
-- JOSÉ WALMIR GONÇALVES DUQUE
-- JULIANA FORIN PASQUINI MARTINEZ
+# Protótipo do App
+![login_prototype](login_prototype.png)
+![create_user_prototype](create_user_prototype.png)
+
 
 # Acesse o Product Backlog
 https://github.com/nicolastelles/PI-IACIT/projects/2
