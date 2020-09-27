@@ -25,14 +25,18 @@ Product Owner:
 - DANILO DE LIMA PIRES
 
 # Protótipo do App
-![login_prototype](Docs\login_prototype.png)
-![create_user_prototype](Docs\create_user_prototype.png)
+![Imagem protótipo do login](Docs/login_prototype.png "Protótipo Login")
+![Imagem protótipo da criação de usuário](Docs/create_user_prototype.png "Protótipo cadastro")
 
 Obs: Os protótipos foram feitos no SceneBuilder 8.5.0, um editor para desenvolver as telas do programa. Escolhemos fazer pelo SceneBuilder para evitar problemas com o desenvolvimento final das telas.
 
 # Modelagem do BD
-![modelo_conceitual](Docs\Modelo_Conceitual.jpg)
-![modelo_logico](Docs\Modelo_Logico.jpg)
+- Modelo conceitual
+![Imagem modelo_conceitual](Docs/Modelo_Conceitual.jpg "Modelo Conceitual")
+
+- Modelo lógico
+
+![Imagem modelo_logico](Docs/Modelo_Logico.jpg "Modelo Lógico")
 
 
 # Acesse o Product Backlog
