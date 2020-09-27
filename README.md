@@ -25,10 +25,15 @@ Product Owner:
 - DANILO DE LIMA PIRES
 
 # Protótipo do App
-![login_prototype](login_prototype.png)
-![create_user_prototype](create_user_prototype.png)
+![login_prototype](Docs\login_prototype.png)
+![create_user_prototype](Docs\create_user_prototype.png)
 
 Obs: Os protótipos foram feitos no SceneBuilder 8.5.0, um editor para desenvolver as telas do programa. Escolhemos fazer pelo SceneBuilder para evitar problemas com o desenvolvimento final das telas.
+
+# Modelagem do BD
+![modelo_conceitual](Docs\Modelo_Conceitual.jpg)
+![modelo_logico](Docs\Modelo_Logico.jpg)
+
 
 # Acesse o Product Backlog
 https://github.com/nicolastelles/PI-IACIT/projects/2
