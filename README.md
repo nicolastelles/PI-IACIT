@@ -23,19 +23,25 @@ Product Owner:
 
 - MAYCON RAFAEL CRUZ SILVA
 
-# Protótipo do App
-![Imagem protótipo do login](Docs/login_prototype.png "Protótipo Login")
-![Imagem protótipo da criação de usuário](Docs/create_user_prototype.png "Protótipo cadastro")
+# Telas do App
+![Imagem da tela login](Docs/img/login_screen.png "Tela Login")
+![Imagem da tela de cadastro de usuário](Docs/img/create_user_screen.jpg "Tela cadastro")
 
-Obs: Os protótipos foram feitos no SceneBuilder 8.5.0, um editor para desenvolver as telas do programa. Escolhemos fazer pelo SceneBuilder para evitar problemas com o desenvolvimento final das telas.
+
+#Diagrama de Caso de Uso
+Este caso de uso serve para que um administrador cadastre um novo funcionário.
+O Administrador deve cadastrar um funcionário para que o mesmo consiga efetuar o login no sistema.
+
+- Caso de Uso
+![Imagem do caso de uso](Docs/img/use_case.png "Diagrama de caso de uso")
 
 # Modelagem do BD
 - Modelo conceitual
-![Imagem modelo_conceitual](Docs/Modelo_Conceitual.jpg "Modelo Conceitual")
+![Imagem modelo_conceitual](Docs/img/Modelo_Conceitual.jpg "Modelo Conceitual")
 
 - Modelo lógico
 
-![Imagem modelo_logico](Docs/Modelo_Logico.jpg "Modelo Lógico")
+![Imagem modelo_logico](Docs/img/Modelo_Logico.jpg "Modelo Lógico")
 
 
 # Acesse o Product Backlog
