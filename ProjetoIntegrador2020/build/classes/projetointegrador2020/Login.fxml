@@ -10,13 +10,13 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane id="AnchorPane" prefHeight="570.0" prefWidth="720.0" style="-fx-background-color: #2e4d85;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="projetointegrador2020.LoginController">
+<AnchorPane id="AnchorPane" prefHeight="570.0" prefWidth="720.0" style="-fx-background-color: #2e4d85;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="projetointegrador2020.LoginController">
    <children>
       <Pane prefHeight="148.0" prefWidth="720.0" style="-fx-background-color: #122851;">
          <children>
-            <ImageView fitHeight="134.0" fitWidth="176.0" layoutX="68.0" layoutY="28.0" pickOnBounds="true" preserveRatio="true">
+            <ImageView id="imgLogoLogin" fx:id="imgLogoLogin" fitHeight="134.0" fitWidth="176.0" layoutX="65.0" layoutY="28.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../../imgs/logo.png" />
+                  <Image url="@../../imgs/logo.png" />
                </image>
             </ImageView>
             <Label layoutX="315.0" layoutY="50.0" text="Realizar Login " textFill="WHITE">
