@@ -15,14 +15,13 @@ DevTeam:
 - LUCAS VINICIUS DOS SANTOS ALMEIDA
 - GABRIEL FERREIRA FABIAN
 - JOAO VITOR DE PAULA RODRIGUES MACHADO
-- MAYCON RAFAEL CRUZ SILVA
 
 Scrum Master:
 - NICOLAS SOARES TELLES
 
 Product Owner: 
 
-- DANILO DE LIMA PIRES
+- MAYCON RAFAEL CRUZ SILVA
 
 # Protótipo do App
 ![Imagem protótipo do login](Docs/login_prototype.png "Protótipo Login")
