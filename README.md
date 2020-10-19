@@ -6,14 +6,23 @@ Para a entrega dessa Sprint, temos como objetivo realizar o login do usuário ao
 Para esta sprint tivemos as seguintes tasks:
 
 1 - Criar Servidor;
+
 2 - Configurar Postgres no Servidor;
+
 3 - Atualização modelo lógico e conceitual do BD;
+
 4 - Criação de Tabelas no Postgresql;
+
 5 - Integração do SceneBuilderFX com Java;
+
 6 - Evento de troca de telas;
+
 7 - Login do Usuário;
+
 8 - Tela de Cadastro de Funcionários;
+
 9 - Evento para Sair do Programa;
+
 10 - Integração do Java com o servidor Postgresql.
 
 - Gráfico BurnDown
