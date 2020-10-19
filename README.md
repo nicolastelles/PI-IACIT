@@ -3,6 +3,22 @@
 # Objetivo
 Para a entrega dessa Sprint, temos como objetivo realizar o login do usuário ao sistema e o cadastro dos dados dos funcionários, além disso, acertar algumas coisas da sprint anterior.
 
+Para esta sprint tivemos as seguintes tasks:
+
+1 - Criar Servidor;
+2 - Configurar Postgres no Servidor;
+3 - Atualização modelo lógico e conceitual do BD;
+4 - Criação de Tabelas no Postgresql;
+5 - Integração do SceneBuilderFX com Java;
+6 - Evento de troca de telas;
+7 - Login do Usuário;
+8 - Tela de Cadastro de Funcionários;
+9 - Evento para Sair do Programa;
+10 - Integração do Java com o servidor Postgresql.
+
+- Gráfico BurnDown
+![Imagem gráfico BurnDown](Docs/img/burndown_graph.png "Gráfico BurnDown")
+
 # Funcionalidades
 As funcionalidades dessa Sprint consistem no login e cadastro do usuário, sendo o cadastro feito pelo administrador. Para os dois será utilizado um banco de dados PostgreSQL hospedado em um servidor remoto.
 
