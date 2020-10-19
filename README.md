@@ -23,19 +23,6 @@ Product Owner:
 
 - MAYCON RAFAEL CRUZ SILVA
 
-# Cartões User Stories Sprint 1
-
-6 - Criar Servidor<br/>
-7 - Configura Postgres no Servidor<br/> 
-8 - Arrumar modelo lógica e conceitual<br/> 
-9 - Criar as Tabelas<br/>
-10 - Integrar o SceneBuilderFx x NetBeans<br/> 
-11 - Atualização de Telas<br/>
-12 - Login<br/> 
-13 - Cadastro de Funcionário<br/>
-14 - Botão Sair<br/>
-15 - Integração Banco de dados<br/>
-
 # Telas do App
 ![Imagem da tela login](Docs/img/login_screen.jpg "Tela Login")
 ![Imagem da tela de cadastro de usuário](Docs/img/create_user_screen.jpg "Tela cadastro")
