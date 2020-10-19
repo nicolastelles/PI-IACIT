@@ -24,11 +24,11 @@ Product Owner:
 - MAYCON RAFAEL CRUZ SILVA
 
 # Telas do App
-![Imagem da tela login](Docs/img/login_screen.png "Tela Login")
+![Imagem da tela login](Docs/img/login_screen.jpg "Tela Login")
 ![Imagem da tela de cadastro de usuário](Docs/img/create_user_screen.jpg "Tela cadastro")
 
 
-#Diagrama de Caso de Uso
+# Diagrama de Caso de Uso
 Este caso de uso serve para que um administrador cadastre um novo funcionário.
 O Administrador deve cadastrar um funcionário para que o mesmo consiga efetuar o login no sistema.
 
