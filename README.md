@@ -3,6 +3,23 @@
 # Objetivo
 Para essa Sprint temos como objetivo o cadastro, edição e remoção dos dados dos funcionários e veículos  e resolução de algumas coisas da Sprint anterior.
 
+As seguintes tasks foram definidas:
+- Criação de um diagrama de casos de uso para o projeto.
+- Criação de tabelas no Postgresql.
+- Edição das tabelas no Postgresql.
+- Remoção das tabelas no Postgresql.
+- Integração do Java com o servidor Postgresql.
+- Tela do CRUD dos veículos.
+- Tela do CRUD dos motoristas.
+- Cadastro dos veículos e funcionários.
+- Edição dos dados dos veículos e funcionários.
+- Remoção dos veículos e funcionários.
+
+Sendo que destas priorizamos as últimas três:
+- Cadastro dos veículos e funcionários.
+- Edição dos dados dos veículos e funcionários.
+- Remoção dos veículos e funcionários.
+
 # Funcionalidades
 As funcionalidades dessa Sprint consistem na criação de um CRUD tanto para os funcionários quanto aos veículos.
 
@@ -32,6 +49,9 @@ Product Owner:
 
 # Programa Funcionando
 ![Demonstracao de uso](Docs/img/timeline.gif "Demonstracao de uso")
+
+# BurnDown
+![Grafico BurnDown](Docs/img/burndown.png "Grafico BurnDown")
 
 # Diagrama de Caso de Uso
 Este caso de uso serve para que um administrador cadastre um novo funcionário.
