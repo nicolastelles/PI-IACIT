@@ -1,10 +1,10 @@
 # Projeto Integrador FATECSJC 2020_2
 
 # Objetivo
-Para a entrega dessa Sprint, temos como objetivo realizar o login do usuário ao sistema e o cadastro dos dados dos funcionários, além disso, acertar algumas coisas da sprint anterior.
+Para essa Sprint temos como objetivo o cadastro, edição e remoção dos dados dos funcionários e veículos  e resolução de algumas coisas da Sprint anterior.
 
 # Funcionalidades
-As funcionalidades dessa Sprint consistem no login e cadastro do usuário, sendo o cadastro feito pelo administrador. Para os dois será utilizado um banco de dados PostgreSQL hospedado em um servidor remoto.
+As funcionalidades dessa Sprint consistem na criação de um CRUD tanto para os funcionários quanto aos veículos.
 
 # Disciplinas Integradas
 - Engenharia de Softaware ( Profª. Juliana Forin Pasquini Martiniz) 
@@ -15,6 +15,7 @@ DevTeam:
 - LUCAS VINICIUS DOS SANTOS ALMEIDA
 - GABRIEL FERREIRA FABIAN
 - JOAO VITOR DE PAULA RODRIGUES MACHADO
+- PEDRO SOUSA LOPES
 
 Scrum Master:
 - NICOLAS SOARES TELLES
@@ -24,9 +25,13 @@ Product Owner:
 - MAYCON RAFAEL CRUZ SILVA
 
 # Telas do App
-![Imagem da tela login](Docs/img/login_screen.jpg "Tela Login")
-![Imagem da tela de cadastro de usuário](Docs/img/create_user_screen.jpg "Tela cadastro")
+![Imagem da tela login](Docs/img/login_screen.png "Tela de Login")
+![Imagem da tela de cadastro de usuário](Docs/img/user_creator.png "Tela cadastro de funcionário")
+![Imagem do Registro de veículos](Docs/img/vehicle_register.png "Tela registro veiculo")
+![Imagem da tela de inicio](Docs/img/home_screen.png "Tela de início")
 
+# Programa Funcionando
+![Demonstracao de uso](Docs/img/timeline.gif "Demonstracao de uso")
 
 # Diagrama de Caso de Uso
 Este caso de uso serve para que um administrador cadastre um novo funcionário.
@@ -34,6 +39,9 @@ O Administrador deve cadastrar um funcionário para que o mesmo consiga efetuar 
 
 - Caso de Uso
 ![Imagem do caso de uso](Docs/img/use_case.png "Diagrama de caso de uso")
+
+# Diagrama de Classe
+![Imagem do Diagrama de Classe](Docs/img/diagrama_classes.png "Diagrama de Classes")
 
 # Modelagem do BD
 - Modelo conceitual
