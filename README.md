@@ -34,8 +34,7 @@ Product Owner:
 ![Demonstracao de uso](Docs/img/timeline.gif "Demonstracao de uso")
 
 # Diagrama de Caso de Uso
-Este caso de uso serve para que um administrador cadastre um novo funcionário e que o mesmo consiga cadastrar veículos.
-O Administrador deve cadastrar um funcionário para que o mesmo consiga efetuar o login no sistema e cadastrar veículos .
+Este caso de uso serve para que um administrador cadastre,altere ou exclua um funcionário e que tambem consiga cadastrar,alterar e excluir um veículo.
 
 - Caso de Uso
 ![Screenshot_24](https://user-images.githubusercontent.com/60347505/99318408-63ac7380-2846-11eb-8deb-889ec7b8ac9c.png)
