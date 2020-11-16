@@ -43,6 +43,9 @@ O Administrador deve cadastrar um funcionário para que o mesmo consiga efetuar 
 # Diagrama de Classe
 ![Imagem do Diagrama de Classe](Docs/img/diagrama_classes.png "Diagrama de Classes")
 
+![Screenshot_22](https://user-images.githubusercontent.com/60347505/99316528-4b872500-2843-11eb-994c-b435ca81fd75.png)
+
+
 # Modelagem do BD
 - Modelo conceitual
 ![Imagem modelo_conceitual](Docs/img/Modelo_Conceitual.jpg "Modelo Conceitual")
