@@ -38,12 +38,12 @@ Este caso de uso serve para que um administrador cadastre um novo funcionário.
 O Administrador deve cadastrar um funcionário para que o mesmo consiga efetuar o login no sistema.
 
 - Caso de Uso
-![Imagem do caso de uso](Docs/img/use_case.png "Diagrama de caso de uso")
+![Screenshot_22](https://user-images.githubusercontent.com/60347505/99316528-4b872500-2843-11eb-994c-b435ca81fd75.png)
 
 # Diagrama de Classe
 ![Imagem do Diagrama de Classe](Docs/img/diagrama_classes.png "Diagrama de Classes")
 
-![Screenshot_22](https://user-images.githubusercontent.com/60347505/99316528-4b872500-2843-11eb-994c-b435ca81fd75.png)
+
 
 
 # Modelagem do BD
