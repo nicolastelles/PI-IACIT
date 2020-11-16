@@ -38,7 +38,8 @@ Este caso de uso serve para que um administrador cadastre um novo funcionário e
 O Administrador deve cadastrar um funcionário para que o mesmo consiga efetuar o login no sistema e cadastrar veículos .
 
 - Caso de Uso
-![Screenshot_23](https://user-images.githubusercontent.com/60347505/99318315-3790f280-2846-11eb-8c37-5dda881df804.png)
+![Screenshot_24](https://user-images.githubusercontent.com/60347505/99318408-63ac7380-2846-11eb-8deb-889ec7b8ac9c.png)
+
 
 # Diagrama de Classe
 ![Imagem do Diagrama de Classe](Docs/img/diagrama_classes.png "Diagrama de Classes")
