@@ -48,7 +48,7 @@ Product Owner:
 ![Imagem da tela de inicio](Docs/img/home_screen.png "Tela de início")
 
 # Programa Funcionando
-![Demonstracao de uso](Docs/img/timeline.gif "Demonstracao de uso")
+![saida](https://user-images.githubusercontent.com/60347505/99319757-e7675f80-2848-11eb-922a-76609d5d33ee.gif)
 
 # BurnDown
 ![Grafico BurnDown](Docs/img/burndown.png "Grafico BurnDown")
