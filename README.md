@@ -32,6 +32,7 @@ Product Owner:
 
 # Programa Funcionando
 ![Demonstracao de uso](Docs/img/timeline.gif "Demonstracao de uso")
+![saida](https://user-images.githubusercontent.com/60347505/99319757-e7675f80-2848-11eb-922a-76609d5d33ee.gif)
 
 # Diagrama de Caso de Uso
 Este caso de uso serve para que um administrador cadastre,altere ou exclua um funcionário e que tambem consiga cadastrar,alterar e excluir um veículo.
