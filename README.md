@@ -3,6 +3,23 @@
 # Objetivo
 Para essa Sprint temos como objetivo o controle da viagem do motorista e resolução de algumas coisas da Sprint anterior.
 
+As seguintes tasks foram definidas:
+- Atualizar Diagrama de caso de uso.
+- Atualizar Diagrama de classes.
+- Arrumar o layout.
+- Validar chave estrangeira.
+- Criar entrega.
+- Editar entrega.
+- Validar entrega
+
+Sendo que destas foram priorizadas estas:
+- Criar entrega.
+- Editar entrega.
+- Validar entrega.
+
+# BurnDown
+![BurnDown Sprint3](Docs/img/BurnDown.png)
+
 # Funcionalidades
 As funcionalidades dessa Sprint consistem no controle da viagem de um motorista que é feita pelo administrador e a validação (conclusão) da viagem dada pelo motorista.
 
