@@ -47,7 +47,7 @@ public class DaoAgenda {
         pst.execute();
         
         
-        JOptionPane.showConfirmDialog(null, "Trajeto salvo com sucesso");
+        JOptionPane.showMessageDialog(null, "Trajeto salvo com sucesso");
         } catch (SQLException ex) {
             JOptionPane.showMessageDialog(null,"erro ao salvar agendamento");
         }
@@ -83,6 +83,28 @@ public class DaoAgenda {
         
         conexVeiculo.desconecta();
         
+    }
+    public void Alterar(BeansAgenda agenda){
+        conex.conexao();
+        
+        PreparedStatement pst;
+        try {
+            pst = conex.con.prepareStatement("update agenda2 set agenda_status=? where agenda_cod=?");
+             
+       pst.setString(1, agenda.getStatus());
+       pst.setInt(2,agenda.getAgendaCod());
+       
+       pst.execute();
+       
+        
+        } catch (SQLException ex) {
+            Logger.getLogger(DaoAgenda.class.getName()).log(Level.SEVERE, null, ex);
+        }
+      
+        
+        conex.desconecta();
+   
+    
     }
         
     }

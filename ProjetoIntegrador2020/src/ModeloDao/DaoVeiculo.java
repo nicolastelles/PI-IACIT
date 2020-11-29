@@ -84,7 +84,7 @@ public class DaoVeiculo {
     public void Excluir(BeansVeiculo mod){
     conex.conexao();
        try {
-           PreparedStatement pst = conex.con.prepareStatement("delete from base_veiculo where codigo=?");
+           PreparedStatement pst = conex.con.prepareStatement("delete from base_veiculo where codigo = ?");
            pst.setInt(1,mod.getCod());
            pst.execute();
            JOptionPane.showMessageDialog(null, "excluido com sucesso");

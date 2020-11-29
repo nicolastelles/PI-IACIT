@@ -53,6 +53,8 @@ public class DaoUsuario {
            mod.setCnh(conex.rs.getString("cnh"));
            mod.setTipofuncionario(conex.rs.getString("tipo_funcionario"));
            
+           
+           
        } catch (SQLException ex) {
            JOptionPane.showMessageDialog(null, "Nome nao encontrando ou mal informado");
        }
@@ -89,7 +91,7 @@ public class DaoUsuario {
     public void Excluir(BeansFuncionario mod){
     conex.conexao();
        try {
-           PreparedStatement pst = conex.con.prepareStatement("delete from funcionarios where cod_usuario=?");
+           PreparedStatement pst = conex.con.prepareStatement("delete from funcionarios where cod_usuario = ?");
            pst.setInt(1,mod.getCodigo());
            pst.execute();
            JOptionPane.showMessageDialog(null, "excluido com sucesso");
