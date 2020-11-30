@@ -25,10 +25,12 @@ Product Owner:
 - MAYCON RAFAEL CRUZ SILVA
 
 # Telas do App
-![Imagem da tela login](Docs/img/login_screen.png "Tela de Login")
-![Imagem da tela de cadastro de usuário](Docs/img/user_creator.png "Tela cadastro de funcionário")
+![Imagem da tela login](Docs/img/login_screen.jpeg "Tela de Login")
+![Imagem da tela de inicio](Docs/img/home_screen.jpeg "Tela de início")
+![Imagem da tela de cadastro de usuário](Docs/img/add_employee_screen.jpeg "Tela cadastro de funcionário")
 ![Imagem do Registro de veículos](Docs/img/vehicle_register.png "Tela registro veiculo")
-![Imagem da tela de inicio](Docs/img/home_screen.png "Tela de início")
+![Imagem da tela de criação de entregas](Docs/img/delivery_screen.jpeg "Tela de cadastro de entegas")
+
 
 # Programa Funcionando
 ![saida](https://user-images.githubusercontent.com/60347505/99319757-e7675f80-2848-11eb-922a-76609d5d33ee.gif)
